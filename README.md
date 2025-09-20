@@ -1,1 +1,1 @@
-# Shopify-product-fetching-integration
+# Shopify
